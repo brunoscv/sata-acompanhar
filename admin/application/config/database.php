@@ -52,9 +52,9 @@ $query_builder = TRUE;
 
 
 	$db['default']['hostname'] = 'localhost';
-	$db['default']['username'] = 'saudeem5_admin';
-	$db['default']['password'] = 'src#123SAUDE';
-	$db['default']['database'] = 'saudeem5_acompanhar';
+	$db['default']['username'] = 'root';
+	$db['default']['password'] = '';
+	$db['default']['database'] = 'acompanhar';
 	$db['default']['dbdriver'] = 'mysqli';
 	$db['default']['dbprefix'] = '';
 	$db['default']['pconnect'] = FALSE;
